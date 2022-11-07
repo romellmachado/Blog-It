@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BlogApp</string>
+    <string name="blog_app">BLOG APP</string>
+    <string name="welcome">WELCOME</string>
+    <string name="your_email">Your Email...</string>
+    <string name="password">Password...</string>
+    <string name="login">Login</string>
+    <string name="need_a_new_account">Need a New Account?</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="already_have_an_account">Already Have an Account?</string>
+    <string name="create_a_post">Create a Post</string>
+    <string name="post_title">Post Title</string>
+    <string name="title_description">Title Description</string>
+    <string name="submit_post">Submit Post</string>
+    <string name="upload_an_image">Upload an Image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="confirm_password">Confirm Password...</string>
+    <string name="post">POST</string>
+    <string name="blog_title">Blog Title</string>
+    <string name="save">SAVE</string>
+</resources>
